@@ -1,0 +1,3 @@
+display_name: NSCA Exercise Technique
+short_description: Teaches exercise technique, cues, common errors, spotting, and warm-up execution.
+default_prompt: Build an NSCA-informed technique checklist and cue plan for this exercise.

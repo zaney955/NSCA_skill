@@ -1,0 +1,3 @@
+display_name: NSCA Conditioning
+short_description: Designs plyometric, speed, agility, aerobic, and metabolic conditioning plans.
+default_prompt: Design an NSCA-informed conditioning block for my athlete.

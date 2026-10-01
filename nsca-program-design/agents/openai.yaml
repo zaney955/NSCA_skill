@@ -1,0 +1,3 @@
+display_name: NSCA Program Design
+short_description: Designs strength training programs, needs analyses, and periodized plans for athletes.
+default_prompt: Design an NSCA-informed resistance training program for my athlete.

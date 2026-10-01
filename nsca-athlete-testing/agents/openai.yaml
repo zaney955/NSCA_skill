@@ -1,0 +1,3 @@
+display_name: NSCA Athlete Testing
+short_description: Builds athlete test batteries, testing plans, score interpretations, and profiles.
+default_prompt: Build an NSCA-informed testing battery and athlete profile plan.
